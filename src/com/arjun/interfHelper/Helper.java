@@ -9,7 +9,4 @@ public abstract class Helper implements Bank {
 		System.out.println("Deposite called");
 
 	}
-
-	
-
 }
