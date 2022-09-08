@@ -1,4 +1,4 @@
-package com.arjun.Collections;
+package com.arjun.Collections.AL;
 
 import java.util.ArrayList;
 import java.util.List;
