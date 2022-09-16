@@ -7,26 +7,24 @@ package oops.Association.compositon.inheritance;
  * 3.Parent class method must return parent class object and child class method must return child class object.
  */
 
-class C{
-	
-}
-class B extends C{
-
-}
-class Demo extends B{
-	C show() {
+class Demo1{
+	Demo1 show() {
 		System.out.println("show of demo");
-		return new C();
+		return this;
 	}
 }
-public class CovarientReturn {
+public class CovarientReturn1 extends Demo1 {
 
-	 B show(){
-		 System.out.println("show of CovarientReturn");
-		 return new B();
-	 }
+	CovarientReturn1 show() {
+		System.out.println("show of coivarient");
+		return this;
+	}
+	
+	void display() {
+		System.out.println("display method of CovarientReturnn1");
+	}
 	public static void main(String[] args) {
-		CovarientReturn return1= new CovarientReturn();
-		return1.show();
+		CovarientReturn1 return1= new CovarientReturn1();
+		return1.show().display();
 	}
 }
