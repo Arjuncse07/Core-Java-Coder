@@ -1,6 +1,6 @@
 package com.arjun.interfHelper;
 
-import com.arjun.interf.Bank;
+import com.arjun.interface1.Bank;
 
 public abstract class Helper implements Bank {
 
