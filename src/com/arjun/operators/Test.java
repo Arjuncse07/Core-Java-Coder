@@ -1,4 +1,4 @@
-package com.arjun.operators.ShortCircuitOP;
+package com.arjun.operators;
 
 public class Test {
 	
