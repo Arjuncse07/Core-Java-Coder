@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec5ce117-36f7-4af1-b2ae-362a416627c4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/Array/Amit.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/Array/Amit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/Array/Array1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/Array/Array1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/Array/Array2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/Array/Array2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/Array/Array3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/Array/Array3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/Array/Array4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/Array/Array4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/Array/Array5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/Array/Array5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/Array/Array6.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/Array/Array6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/Array/Studnet.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/Array/Studnet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/Clone/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/Clone/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/OCA/Class.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/OCA/Class.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/OCA/Class1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/OCA/Class1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/OCA/Class2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/OCA/Class2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/OCA/Class3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/OCA/Class3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/OCA/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/OCA/Message.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/StaticNonstatic/NonStatic1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/StaticNonstatic/NonStatic1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/WrapperCls/AutoBoxingDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/WrapperCls/AutoBoxingDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/WrapperCls/Unboxing.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/WrapperCls/Unboxing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/abstractcls/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/abstractcls/Bank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/abstractcls/HDFC.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/abstractcls/HDFC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/abstractcls/TestBank.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/abstractcls/TestBank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/composition/Case.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/composition/Case.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/composition/MotherBoard.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/composition/MotherBoard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/composition/PC.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/composition/PC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/composition/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/composition/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/enumdemo/Main$Transport.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/enumdemo/Main$Transport.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/enumdemo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/enumdemo/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/flowcontrol/Expn3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/flowcontrol/Expn3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/flowcontrol/Flc1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/flowcontrol/Flc1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/interf/Businees/Businees.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/interf/Businees/Businees.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/interf/Client/TestClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/interf/Client/TestClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/interfHelper/Helper.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/interfHelper/Helper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/interfaceDemo/BMW.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/interfaceDemo/BMW.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/interfaceDemo/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/interfaceDemo/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/interfaceDemo/TestCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/interfaceDemo/TestCar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/interfaceDemo/audi.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/interfaceDemo/audi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/javaquiz/Quiz1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/javaquiz/Quiz1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/logicbasedpgr/RevNumByRecusion.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/logicbasedpgr/RevNumByRecusion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/logicbasedpgr/RevString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/logicbasedpgr/RevString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/logicbasedpgr/RevStringUsingSbuff.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/logicbasedpgr/RevStringUsingSbuff.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/markerInterface/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/markerInterface/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arjun/singleton/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arjun/singleton/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/object/oriented/programming/ContactInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/object/oriented/programming/ContactInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/object/oriented/programming/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/object/oriented/programming/Human.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/object/oriented/programming/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/object/oriented/programming/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/object/oriented/programming/StudentCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/object/oriented/programming/StudentCard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/oops/Association/compositon/inheritance/Address.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/oops/Association/compositon/inheritance/Address.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/oops/Association/compositon/inheritance/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/oops/Association/compositon/inheritance/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/oops/Association/compositon/inheritance/Salary.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/oops/Association/compositon/inheritance/Salary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/oops/abstraction/NoInstanceForAbstract.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/oops/abstraction/NoInstanceForAbstract.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/oops/abstraction/NoInstanceForAbstractChild.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/oops/abstraction/NoInstanceForAbstractChild.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/oops/abstraction/NoInstanceForAbstractDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/oops/abstraction/NoInstanceForAbstractDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/oops/cohesion/ArithmeticOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/oops/cohesion/ArithmeticOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/oops/cohesion/CharacterOpertation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/oops/cohesion/CharacterOpertation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/oops/cohesion/CohesiveExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/oops/cohesion/CohesiveExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/arjun/FileIO/BufferReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/arjun/FileIO/BufferReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oops/Association/compositon/inheritance/BindingDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/Association/compositon/inheritance/BindingDemo2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2DU04UKjbcZW2Wm3JR9TvlAyW1R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/Core-Java/Core-Java-Coder",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec5ce117-36f7-4af1-b2ae-362a416627c4" name="Changes" comment="" />
+      <created>1660738172835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660738172835</updated>
+      <workItem from="1660738176636" duration="210000" />
+      <workItem from="1665576497297" duration="363000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

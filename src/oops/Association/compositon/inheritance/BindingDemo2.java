@@ -25,7 +25,7 @@ class Parent12{
 		}
 	}
 public class BindingDemo2 {
-public static void main(String[] args) {
+  public static void main(String[] args) {
 	try {
 		Class c= Class.forName(args[0]);
 		Parent12 parent12=(Parent12)c.newInstance();
