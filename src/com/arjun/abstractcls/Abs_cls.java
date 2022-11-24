@@ -38,6 +38,9 @@ abstract  class Abs_cls extends A implements I5 {
 	static {
 		
 	};
+	{
+		System.out.println("Init Block of the abstact class");
+	}
    //Define constructor inside the abstract class	
 	public Abs_cls() {
 		
