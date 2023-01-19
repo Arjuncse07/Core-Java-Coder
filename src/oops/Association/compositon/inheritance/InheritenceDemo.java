@@ -29,12 +29,16 @@ public static void main(String[] args) {
 	InheritenceDemo demo= new InheritenceDemo();
 	//demo.x;
 	System.out.println(demo.x);
+	
 	new InheritenceDemo().show();
 	demo.show();
+	
 	new InheritenceDemo().display();
 	display();
+	
 	InheritenceDemo.display();
 	System.out.println(y);
+	
 	demo.display();
 	System.out.println(InheritenceDemo.y);
 }

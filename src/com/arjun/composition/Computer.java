@@ -28,12 +28,13 @@ class Monitor{
 		System.out.println("Monitor is also weak"); //Aggregation is weak relation
 	}
 }
-public class Computer {
+public class Computer {  
   HardDisk hardDisk;
   Ram ram;
   MotherBoard1 motherBoard1;
   Speaker speaker;
-  Monitor monitor;
+  Monitor monitor; 
+  
   public Computer() {
 	monitor = new Monitor();
 	hardDisk= new HardDisk();
