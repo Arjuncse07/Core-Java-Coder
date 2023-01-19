@@ -3,7 +3,7 @@ package oops.Association.compositon.inheritance;
 public class Employee {
 	String name;
 	int age;
-	Address adr; // Aggregation
+	Address adr; // Aggregation -- Loosly coupling
 	Salary slr; // Aggregation
 
 	Employee(String name, int age) {

@@ -1,6 +1,7 @@
 package com.arjun.enumdemo;
 //enum is a group of named constant..
 public class Main {
+	
 	enum Transport{
 		PLANE(600),TRAIN(80),AUTOMOBILE(52),BICYCLE(25);
 		

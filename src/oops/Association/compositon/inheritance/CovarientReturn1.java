@@ -8,13 +8,14 @@ package oops.Association.compositon.inheritance;
  */
 
 class Demo1{
+	//method-1
 	Demo1 show() {
 		System.out.println("show of demo");
 		return this;
 	}
 }
 public class CovarientReturn1 extends Demo1 {
-
+    //method-1 overridden
 	CovarientReturn1 show() {
 		System.out.println("show of coivarient");
 		return this;
